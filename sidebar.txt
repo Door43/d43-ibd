@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ibd:home|Door43 (ibd)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ibd|d43-ibd repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ibd/archive/master.zip|d43-ibd.zip]]
+
+**Recent Changes**
+{{changes>ns = ibd}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ibd|Ethnologue data]]
+
